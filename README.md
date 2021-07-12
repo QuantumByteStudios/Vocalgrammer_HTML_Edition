@@ -2,3 +2,6 @@
 A Python Program which lets you CODE in HTML with your VOICE :)<br>
 -for now <b>HTML</b> is supported, we will also work on <b>CSS</b> soon.
 
+<h1>Just Relax!, Let AI Handel it!</h1>
+<p>This project is only for testing some voice commands and file handling in python. We don’t recommend using this tool for an important project or not to depend on this tool for anything. This tool is created by some newbies just for fun and the practice of AI projects, so give it a try.</p>
+<img src="https://cdn.dribbble.com/users/68398/screenshots/5907827/yoga.gif">
