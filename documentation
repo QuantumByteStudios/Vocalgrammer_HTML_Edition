@@ -1,0 +1,21 @@
+Welcome, visitor.
+If you are reading this text, that means you are interested in trying out this program or want to explore it. So thanks for downloading or reading this document.
+
+
+Project Name: VOCALGRAMMER
+Language used: Python 3.9
+Packages used: pyttsx3, speech_recognition, os, time, datetime.
+Author and Developer: Quantum Byte Studios & FrosT
+Contributors: Khushal Patel & QuantumCommunity
+
+Description
+This copy of the project is not for commercial purpose, this is just a Python AI practise program made by some newbies for fun, but this program is capable of creating a simple, non-styled HTML page with some voice commands. I would like to recommend that you use it for fun.
+
+Note: We don’t recommend using this tool for an important project or not to depend on this tool for anything.
+
+Check our repository for the source code and more info.
+
+Github Repository: https://github.com/QuantumByteStudios/Vocalgrammer_HTML_Edition
+
+QuantumByteStudios: http://quantumbyteofficial.tech/
+FrosT: https://www.frost2k5.games/
