@@ -138,9 +138,7 @@ welcomeSplashScreen = '''
 
 print(f"{bcolors.OKCYAN + welcomeSplashScreen + bcolors.ENDC}")
 
-print(f"{bcolors.OKCYAN + welcomeSplashScreen + bcolors.ENDC}")
-
-
+clearLog()
 if __name__ == '__main__':
     introduction()
     wishMe()
