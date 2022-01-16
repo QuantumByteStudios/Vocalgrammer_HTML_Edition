@@ -1,6 +1,6 @@
 # Vocalgrammer_HTML_Edition🤩
 <b><p>#CODE WITH YOUR VOICE</p></b>
-<img align="center" src="https://cdn.dribbble.com/users/563509/screenshots/3210197/comingsoon_01.gif">
+<!--<img align="center" src="https://cdn.dribbble.com/users/563509/screenshots/3210197/comingsoon_01.gif">-->
 A Python Program which lets you <b>CODE in HTML with your VOICE</b> :)<br>
 -for now <b>HTML</b> is supported, we will also work on <b>CSS</b> soon.
 
