@@ -5,7 +5,6 @@ import speech_recognition as sr
 import datetime
 import platform
 
-
 class bcolors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
@@ -135,10 +134,9 @@ welcomeSplashScreen = '''
 ---------------------------------------------------------------------------	            
 	
 '''
-
+clearLog()
 print(f"{bcolors.OKCYAN + welcomeSplashScreen + bcolors.ENDC}")
 
-clearLog()
 if __name__ == '__main__':
     introduction()
     wishMe()
