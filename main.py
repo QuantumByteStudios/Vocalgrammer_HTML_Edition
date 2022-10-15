@@ -1,9 +1,11 @@
 import os
 import time
+from turtle import bgcolor
 import pyttsx3
 import speech_recognition as sr
 import datetime
 import platform
+
 
 class bcolors:
     HEADER = '\033[95m'
@@ -77,7 +79,7 @@ def takecommand(wtr=0):
 
 def introduction():
     print("Getting started without wasting your precious time...")
-    speak("Welcome to VOCALGRAMMER  <HTML EDITION>, version 0.1, created by  Quantum Byte Studios and FrosT, Getting started without wasting your precious time.")
+    speak("Welcome to VOCALGRAMMER  <HTML EDITION>, version 0.1, created by  Quantum AI and FrosT, Getting started without wasting your precious time.")
 
 # ScilenceChecker Function Takes input and removes scilence
 # def scilenceChecker():
@@ -114,9 +116,8 @@ Github{
 }
 
 Website{
-	QuantumByteStudios:  http://quantumbyteofficial.tech/
-	FrosT: 				 https://www.frost2k5.games/
-}
+	QuantumByteStudios:  https://quantumbyte.studio/
+	FrosT: 				 https://frost2k5.me/
 
 '''
 
@@ -344,7 +345,7 @@ if __name__ == '__main__':
             speak("Website Completed!, Thanks for using VOCALGRAMMER\n")
             print("Website Completed!\n")
 
-        elif "terminate program" in query:
+        elif "exit" in query:
             speak("ending program, thanks for using VOCALGRAMMER")
             os.system("cls")
             print(f"{bcolors.OKCYAN + creditsScreen + bcolors.ENDC}")
@@ -352,4 +353,4 @@ if __name__ == '__main__':
             looper = 10
 
         else:
-            print("\n\nREQUEST ERROR\n\n")
+            print(f"\n\n{bcolors.FAIL}REQUEST ERROR\n\n{bcolors.ENDC}")
